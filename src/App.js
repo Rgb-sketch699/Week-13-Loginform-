@@ -10,6 +10,7 @@ function App() {
     <div className="App">
       <Login/>
     </div>
+    // for Navbar.js, erase everything in the return bracket (<div className="App"> <Login/> <div/>) and insert <Navbar/> in it's place.
   );
 };
 
